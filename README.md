@@ -1,5 +1,6 @@
 <h2>Motivation</h2>
-DomParser recive an html string and return HTML element
+DomParser recive an html string and return HTML element.
+This is part of the DOM api so use it on the client side
 
 
 <h2>Usage</h2>
