@@ -1,0 +1,29 @@
+{
+  "name": "dom-parser-playground",
+  "version": "1.0.0",
+  "description": "dom parser playground",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/dom-parser-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/dom-parser-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/dom-parser-playground#readme",
+  "devDependencies": {
+    "@vitest/coverage-istanbul": "^0.34.6",
+    "jsdom": "^22.1.0",
+    "vitest": "^0.34.6"
+  }
+}
